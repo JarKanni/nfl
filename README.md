@@ -2,4 +2,4 @@
 
 #### Seeing a lot of missed field goals, are Kickers getting worse, or is it the added distance?
 
-[Kicking Analysis](https://github.com/JarKanni/nfl/blob/main/kicking_analysis.xlsx)
+[Kicking Analysis](kicking_analysis/kicking_analysis.xlsx)
